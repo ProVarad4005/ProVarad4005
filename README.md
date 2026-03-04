@@ -32,8 +32,13 @@
 
 ---
 
-### 📊 Github Stats
+### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProVarad4005&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ProVarad4005&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProVarad4005&show_icons=true&theme=radical&hide_border=true" alt="Varad's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProVarad4005&layout=compact&theme=radical&hide_border=true&hide_empty=true" alt="Top Languages" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProVarad4005&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>

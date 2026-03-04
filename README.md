@@ -32,13 +32,21 @@
 
 ---
 
-### 📊 My GitHub Stats
-
+### 📈 Overall Statistics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProVarad4005&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Varad's Stats" width="400" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProVarad4005&layout=compact&theme=radical&hide_border=true&hide_empty=true&cache_seconds=1800" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProVarad4005&show_icons=true&theme=radical&hide_border=true" alt="Overall Stats" width="450" />
 </p>
 
+---
+
+### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProVarad4005&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProVarad4005&layout=compact&theme=radical&hide_border=true&hide_empty=true" alt="Top Languages" width="400" />
+</p>
+
+---
+
+### 🔥 Activity Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProVarad4005&theme=radical&hide_border=true" alt="GitHub Streak" width="450" />
 </p>

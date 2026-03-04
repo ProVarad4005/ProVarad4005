@@ -21,8 +21,7 @@ I focus on building clean interfaces and solving logic-heavy problems.
 ## 🎧 About Me
 - 🔭 **Focus:** Building seamless digital experiences from the UI down to the core logic.
 - ⚡ **The DJ Philosophy:** Every line of code is a note; the goal is to make them harmonise perfectly.
-- 💬 **Ask me about:** Data Structures, Web Performance, or C++ optimization.
-
+  
 ---
 
 ## 📊 Performance Tracking

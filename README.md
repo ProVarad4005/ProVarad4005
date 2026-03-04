@@ -13,7 +13,7 @@ I focus on building clean interfaces and solving logic-heavy problems.
 
 * **Frontend:** React, Bootstrap, HTML5, CSS3
 * **Backend:** JavaScript (Node.js), Python
-* **Core Languages:** C, C++
+* **Core Languages:** C, C++, Java
 * **Workflow:** Git, GitHub, VS Code
 
 ---

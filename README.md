@@ -1,23 +1,27 @@
 # Varad Amilkanthwar
-### Full Stack Developer & Creative Coder
+### Full Stack Developer & Software Engineer
 "Remixing challenges into beats of innovation."
 
 <p align="left">
-  <a href="https://twitter.com/VaradAmilkanth1" target="blank"><img src="https://img.shields.io/twitter/follow/VaradAmilkanth1?logo=twitter&style=flat-square&color=0e75b6" alt="Twitter Follow" /></a>
   <img src="https://komarev.com/ghpvc/?username=ProVarad4005&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" />
 </p>
 
 ---
 
 ## 🛠 Tech Stack
-I enjoy building scalable web applications and exploring new technologies. Here is my current toolkit:
+I focus on building clean interfaces and solving logic-heavy problems.
 
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | React, Bootstrap, HTML5, CSS3 |
-| **Backend** | JavaScript (Node.js), Python |
-| **System** | C, C++, Linux |
-| **Tools** | Git, GitHub, VS Code |
+* **Frontend:** React, Bootstrap, HTML5, CSS3
+* **Backend:** JavaScript (Node.js), Python
+* **Core Languages:** C, C++
+* **Workflow:** Git, GitHub, VS Code
+
+---
+
+## 🎧 About Me
+- 🔭 **Focus:** Building seamless digital experiences from the UI down to the core logic.
+- ⚡ **The DJ Philosophy:** Every line of code is a note; the goal is to make them harmonise perfectly.
+- 💬 **Ask me about:** Data Structures, Web Performance, or C++ optimization.
 
 ---
 
